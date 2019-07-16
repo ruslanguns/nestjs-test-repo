@@ -23,7 +23,7 @@ Was created with the following commands:
 ...
 ➜ cd nestjs-test-repo
 ➜ npm install
-➜ yarn start:dev // or npm run start:dev
+➜ yarn start:dev // or npm run start:dev  (OuPs! issue just happened at this command!)
 ```
 
 ## Notes:
