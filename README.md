@@ -19,7 +19,7 @@ Was created with the following commands:
 
 ## Installation
 ```bash
-➜ https://github.com/ruslanguns/nestjs-test-repo.git
+➜ git clone https://github.com/ruslanguns/nestjs-test-repo.git
 ...
 ➜ cd nestjs-test-repo
 ➜ npm install
