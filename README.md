@@ -1,4 +1,8 @@
 # BUG: Library on NestJS
+---------------------------
+-> FIXED in commit [commit ef2b2b5548e849f03ecd0f3361b65cc22c813662](https://github.com/ruslanguns/nestjs-test-repo/pull/1/commits/ef2b2b5548e849f03ecd0f3361b65cc22c813662)
+
+-> More information in the pull request [#1 ](https://github.com/ruslanguns/nestjs-test-repo/pull/1)
 
 ## Introduction
 
@@ -23,7 +27,7 @@ Was created with the following commands:
 ...
 ➜ cd nestjs-test-repo
 ➜ npm install
-➜ yarn start:dev // or npm run start:dev  (OuPs! issue just happened at this command!)
+➜ yarn start:dev // or npm run start:dev
 ```
 
 ## Notes:
